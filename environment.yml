@@ -1,0 +1,9 @@
+name: live-app
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - python-dotenv
+      - websockets
+      - aiofiles
+      - aioconsole
